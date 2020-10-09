@@ -1,0 +1,7 @@
+C:\Users\schuhs\Documents\10A prog gyak\Tavolugras\Tavolugras\bin\Debug\Tavolugras.exe.config
+C:\Users\schuhs\Documents\10A prog gyak\Tavolugras\Tavolugras\bin\Debug\Tavolugras.exe
+C:\Users\schuhs\Documents\10A prog gyak\Tavolugras\Tavolugras\bin\Debug\Tavolugras.pdb
+C:\Users\schuhs\Documents\10A prog gyak\Tavolugras\Tavolugras\obj\Debug\Tavolugras.csprojAssemblyReference.cache
+C:\Users\schuhs\Documents\10A prog gyak\Tavolugras\Tavolugras\obj\Debug\Tavolugras.csproj.CoreCompileInputs.cache
+C:\Users\schuhs\Documents\10A prog gyak\Tavolugras\Tavolugras\obj\Debug\Tavolugras.exe
+C:\Users\schuhs\Documents\10A prog gyak\Tavolugras\Tavolugras\obj\Debug\Tavolugras.pdb
